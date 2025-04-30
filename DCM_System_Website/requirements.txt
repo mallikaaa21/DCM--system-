@@ -1,0 +1,6 @@
+Flask
+flask-mysqldb
+mysqlclient
+numpy
+scikit-learn
+pickle-mixin
